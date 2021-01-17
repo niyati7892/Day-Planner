@@ -5,7 +5,7 @@ Within a standard work day (9:00am - 5:00pm), the scheduler denotes a specific c
 All of the user input is stored in localStorage upon hitting the save button.
 This daily planner allows the user to glance at their work day, make adjustments that come up, and increase productivity. In not utilizing a daily planner, meetings, appointments, reminders, etc. 
 Links:
-1. Git hub link:
+1. Git hub link:https://github.com/niyati7892/Day-Planner
 2. Git hub pages:
 Screen Shot:
 ![screen shot](./images/image.png)
